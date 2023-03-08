@@ -1,0 +1,9 @@
+Feature extraction:-
+"popularity","danceability","energy","key","loudness","mode","speechiness","acousticness","instrumentalness","valence","tempo","time_signature"
+
+
+Scaling Data:-
+"popularity","danceability","energy","key","loudness","mode","speechiness","acousticness","instrumentalness","valence","tempo","time_signature"
+
+Analysis:-
+x-axis:-"popularity",Filter:-"track_genre",y-axis:-["danceability","energy","loudness","speechiness","acousticness","instrumentalness","valence","tempo","time_signature","track_genre"]
